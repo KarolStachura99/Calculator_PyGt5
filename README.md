@@ -35,6 +35,10 @@ Projekt został podzielony na trzy moduły zgodnie z zasadą separacji odpowiedz
    ```bash
    pip install pyqt5
 Uruchom projekt z katalogu głównego:
-
 python -m Calculator_PyQt5.main
 Uwaga: Uruchamiaj polecenie z poziomu folderu, który zawiera katalog Calculator_PyQt5.
+
+---
+
+## Wygląd aplikacji
+![image](https://github.com/user-attachments/assets/ae4d24c1-aca7-4128-ae5f-b872d53d3aa3)
